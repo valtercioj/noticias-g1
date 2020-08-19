@@ -1,0 +1,5 @@
+pywin32==228
+pywin32-ctypes==0.2.0
+requests==2.23.0
+beautifulsoup4==4.9.1
+PySimpleGUI==4.20.0
